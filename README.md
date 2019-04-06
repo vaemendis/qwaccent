@@ -3,7 +3,7 @@
 # What is it ?
 **QWaccent** is a QWERTY keyboard layout with additional shortcuts to easily write in French.
 
-It is derived from the UK Extended layout. The only modifications affect the input of diacritics.  
+It is derived from the [UK Extended layout](https://en.wikipedia.org/wiki/QWERTY#United_Kingdom_(Extended)_Layout). The only modifications affect the input of diacritics.  
 So any UK keyboard can be used as-is, without stickers or specifically printed keys.
 
 ![](https://raw.githubusercontent.com/vaemendis/qwaccent/master/images/qwaccent-layout.png)
@@ -37,7 +37,7 @@ Developers often prefer QWERTY layouts because they are:
 ## Philosophy
 
 QWaccent layout aims to minimize the use of dead keys when writing French diacritics (é,à,û,ï...).   
-It also tries to be as easy to use as possible, by sometimes choosing **efficiency over consistency**: the most often used diacritics are placed on their corresponding letter key.  
+It also tries to be as easy to use as possible, by sometimes choosing **efficiency over consistency**: the [most often used diacritics](https://fr.wikipedia.org/wiki/Fr%C3%A9quence_d%27apparition_des_lettres_en_fran%C3%A7ais) are placed on their corresponding letter key.  
 
 For instance (note the different accents):  
 - `AltGr` + `e` = `é`
